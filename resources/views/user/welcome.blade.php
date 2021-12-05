@@ -25,7 +25,7 @@
         </div>
         <div class="text">
             <h2 class="text-uppercase">Pengiriman</h2>
-            <p>Pengiriman bisa ke seluruh wilayah indonesia dengan kurir JNE</p>
+            <p>Pengiriman bisa ke seluruh wilayah indonesia dengan kurir ssssJNE</p>
         </div>
         </div>
         <div class="col-md-6 col-lg-4 d-lg-flex mb-4 mb-lg-0 pl-4" data-aos="fade-up" data-aos-delay="100">
