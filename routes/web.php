@@ -90,7 +90,7 @@ Route::group(['middleware' => ['auth','checkRole:customer']],function(){
 
 Route::get('/ongkir', 'OngkirController@index');
 Route::get('/ongkir/province/{id}/cities', 'OngkirController@getCities');
-// Route::get('/submit', 'OngkirController@submit')->name('home');
+Route::get('/submit', 'OngkirController@submit')->name('home');
 
 // Auth::routes();
 

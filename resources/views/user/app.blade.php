@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="{{ asset('shopper') }}/css/jquery-ui.css">
     <link rel="stylesheet" href="{{ asset('shopper') }}/css/owl.carousel.min.css">
     <link rel="stylesheet" href="{{ asset('shopper') }}/css/owl.theme.default.min.css">
+    <link rel="shortcut icon" href="{{ asset('adminassets') }}/assets/images/logo kecil.png" />
 
 
     <link rel="stylesheet" href="{{ asset('shopper') }}/css/aos.css">
@@ -188,11 +189,9 @@
         </div>
         <div class="row pt-5 mt-5 text-center">
           <div class="col-md-12">
-            <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i>  <a href="https://colorlib.com" target="_blank" class="text-primary"></a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            </p>
+            <!-- <p>
+            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="icon-heart" aria-hidden="true"></i>  <a href="https://colorlib.com" target="_blank" class="text-primary"></a>
+            </p> -->
           </div>
           
         </div>
